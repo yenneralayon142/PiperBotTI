@@ -21,4 +21,9 @@
     </Content>
   </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="QuerysLuis\QuerysIncidentes\Accesos\" />
+      <Folder Include="QuerysLuis\QuerysRequerimientos\Microsoft365\" />
+    </ItemGroup>
+
 </Project>
