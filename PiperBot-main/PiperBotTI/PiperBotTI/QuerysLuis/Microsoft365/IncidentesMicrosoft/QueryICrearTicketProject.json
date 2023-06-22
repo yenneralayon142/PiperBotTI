@@ -1,0 +1,68 @@
+[
+  {
+    "intent": "ICrearTicketProject",
+    "language": "es-es",
+    "text": "Project no me abre",
+    "entities": [
+      {
+        "category": "Microsoft0365",
+        "offset": "00",
+        "length": "07"
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketProject",
+    "language": "es-es",
+    "text": "Ayudame con Project",
+    "entities": [
+      {
+        "category": "Microsoft0365",
+        "offset":"12",
+        "length":"07"
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketProject",
+    "language": "es-es",
+    "text": "Necesito que Project ejecute",
+    "entities": [
+      {
+        "category": "Microsoft0365",
+        "offset": "14",
+        "length": "07"
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketProject",
+    "language": "es-es",
+    "text": "Problemas de inicio con Project",
+    "entities": [
+      {
+        "category": "Microsoft0365",
+        "offset": "24",
+        "length": "07"
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketProject",
+    "language": "es-es",
+    "text": "Necesito usar project y no sirve",
+    "entities": [
+      {
+        "category": "Microsoft0365",
+        "offset": "15",
+        "length": "07"
+      }
+    ]
+  }
+
+
+]
