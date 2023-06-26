@@ -10,6 +10,60 @@
         "length": ""
       }
     ]
+  },
+
+  {
+    "intent": "ICrearTicketRestauracionEngAñosAnteriores",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketRestauracionEngAñosAnteriores",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketRestauracionEngAñosAnteriores",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketRestauracionEngAñosAnteriores",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
+
+
 
 ]

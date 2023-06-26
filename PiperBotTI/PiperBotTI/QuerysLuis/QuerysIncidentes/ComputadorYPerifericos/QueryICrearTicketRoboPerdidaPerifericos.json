@@ -10,6 +10,60 @@
         "length": ""
       }
     ]
+  },
+
+   {
+    "intent": "ICrearTicketRoboPerdidaPerifericos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "ICrearTicketRoboPerdidaPerifericos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "ICrearTicketRoboPerdidaPerifericos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "ICrearTicketRoboPerdidaPerifericos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
+
+
 
 ]

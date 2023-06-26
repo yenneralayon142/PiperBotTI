@@ -10,6 +10,58 @@
         "length": ""
       }
     ]
+  },
+
+ {
+    "intent": "ICrearTicketInterpreter",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+ {
+    "intent": "ICrearTicketInterpreter",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+ {
+    "intent": "ICrearTicketInterpreter",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+ {
+    "intent": "ICrearTicketInterpreter",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
 
 ]

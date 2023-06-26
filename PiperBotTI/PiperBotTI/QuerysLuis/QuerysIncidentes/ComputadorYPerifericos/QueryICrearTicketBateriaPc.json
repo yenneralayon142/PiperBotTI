@@ -10,6 +10,55 @@
         "length": ""
       }
     ]
+  },
+  {
+    "intent": "ICrearTicketBateriaPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketBateriaPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketBateriaPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketBateriaPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
+
 
 ]

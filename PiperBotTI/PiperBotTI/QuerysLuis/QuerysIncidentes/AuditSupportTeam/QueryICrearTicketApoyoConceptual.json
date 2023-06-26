@@ -10,6 +10,56 @@
         "length": ""
       }
     ]
+  },
+  {
+    "intent": "ICrearTicketApoyoConceptual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketApoyoConceptual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketApoyoConceptual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketApoyoConceptual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
+
+
 
 ]

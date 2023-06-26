@@ -10,6 +10,56 @@
         "length": ""
       }
     ]
-  }
+  },
+  {
+    "intent": "ICrearTicketAzureDevops",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketAzureDevops",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketAzureDevops",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketAzureDevops",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+
 
 ]

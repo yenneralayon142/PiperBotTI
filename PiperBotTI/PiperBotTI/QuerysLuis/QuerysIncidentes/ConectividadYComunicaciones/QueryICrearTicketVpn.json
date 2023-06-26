@@ -10,6 +10,58 @@
         "length": ""
       }
     ]
+  },
+
+  {
+    "intent": "ICrearTicketVpn",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketVpn",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketVpn",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketVpn",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
 
 ]

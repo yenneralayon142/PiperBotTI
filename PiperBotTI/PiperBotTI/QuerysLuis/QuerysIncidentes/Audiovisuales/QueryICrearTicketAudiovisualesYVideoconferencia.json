@@ -10,6 +10,58 @@
         "length": ""
       }
     ]
+  },
+
+  {
+    "intent": "ICrearTicketAudiovisualesYVideoconferencia",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketAudiovisualesYVideoconferencia",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketAudiovisualesYVideoconferencia",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketAudiovisualesYVideoconferencia",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
 
 ]

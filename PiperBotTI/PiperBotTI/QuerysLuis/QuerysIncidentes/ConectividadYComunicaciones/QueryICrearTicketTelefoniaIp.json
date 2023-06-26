@@ -10,6 +10,58 @@
         "length": ""
       }
     ]
+  },
+
+  {
+    "intent": "ICrearTicketTelefoniaIp",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketTelefoniaIp",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketTelefoniaIp",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "ICrearTicketTelefoniaIp",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
 
 ]

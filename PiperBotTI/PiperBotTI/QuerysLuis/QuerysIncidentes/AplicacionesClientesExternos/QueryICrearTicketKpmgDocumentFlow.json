@@ -10,5 +10,59 @@
         "length": ""
       }
     ]
+  },
+
+   {
+    "intent": "ICrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "ICrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "ICrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "ICrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
+
+
 ]

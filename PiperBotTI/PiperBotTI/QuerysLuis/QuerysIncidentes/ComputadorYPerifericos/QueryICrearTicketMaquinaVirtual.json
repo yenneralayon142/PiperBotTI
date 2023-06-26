@@ -10,6 +10,54 @@
         "length": ""
       }
     ]
+  },
+  {
+    "intent": "ICrearTicketMaquinaVirtual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketMaquinaVirtual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketMaquinaVirtual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "ICrearTicketMaquinaVirtual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
   }
-
+  
 ]
