@@ -26,7 +26,6 @@
       <Folder Include="QuerysLuis\QuerysIncidentes\AplicacionesLocales\" />
       <Folder Include="QuerysLuis\QuerysIncidentes\Audiovisuales\" />
       <Folder Include="QuerysLuis\QuerysIncidentes\AuditSupportTeam\" />
-      <Folder Include="QuerysLuis\QuerysIncidentes\ComputadorYPerifericos\" />
       <Folder Include="QuerysLuis\QuerysIncidentes\ConectividadYComunicaciones\" />
       <Folder Include="QuerysLuis\QuerysIncidentes\SeguridadDeLaInformacion\" />
       <Folder Include="QuerysLuis\QuerysRequerimientos\Microsoft365\" />
