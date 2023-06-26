@@ -2,7 +2,7 @@
   {
     "intent": "ICrearTicketCorreoElectronico",
     "language": "es-es",
-    "text": "Tengo el buzón lleno del Outlook",
+    "text": "Tengo el buzï¿½n lleno del Outlook",
     "entities": [
       {
         "category": "Microsoft0365",
@@ -14,7 +14,7 @@
   {
     "intent": "ICrearTicketCorreoElectronico",
     "language": "es-es",
-    "text": "Mi buzón del Outlook está colapsado",
+    "text": "Mi buzï¿½n del Outlook estï¿½ colapsado",
     "entities": [
       {
         "category": "Microsoft0365",
@@ -50,7 +50,7 @@
   {
     "intent": "ICrearTicketCorreoElectronico",
     "language": "es-es",
-    "text": "El buzón del Outlook no me deja recibir correos",
+    "text": "El buzï¿½n del Outlook no me deja recibir correos",
     "entities": [
       {
         "category": "Microsoft0365",

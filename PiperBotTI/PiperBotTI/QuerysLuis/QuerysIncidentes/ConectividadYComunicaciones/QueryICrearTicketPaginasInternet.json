@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketPaginasInternet",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

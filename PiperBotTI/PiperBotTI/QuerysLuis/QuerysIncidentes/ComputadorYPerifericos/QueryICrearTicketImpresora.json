@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketImpresora",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

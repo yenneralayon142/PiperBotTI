@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketCorreccionDeErrores",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

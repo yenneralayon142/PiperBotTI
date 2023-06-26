@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketAccesosEnlacesSospechosos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "SeguridadDeLaInformacion",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

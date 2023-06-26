@@ -1,0 +1,16 @@
+[
+  [
+    {
+      "intent": "ICrearTicketPhishing",
+      "language": "es-es",
+      "text": "",
+      "entities": [
+        {
+          "category": "SeguridadDeLaInformacion",
+          "offset": "",
+          "length": ""
+        }
+      ]
+    }
+  ]
+]

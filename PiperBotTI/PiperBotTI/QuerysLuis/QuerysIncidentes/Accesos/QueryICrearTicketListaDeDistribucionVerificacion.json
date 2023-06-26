@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketListaDeDistribucionVerificacion",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketTelefoniaIp",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

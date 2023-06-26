@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketTeclado",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

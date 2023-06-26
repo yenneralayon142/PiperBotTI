@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketlbs",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

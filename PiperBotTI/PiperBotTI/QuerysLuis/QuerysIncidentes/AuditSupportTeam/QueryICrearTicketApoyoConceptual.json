@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketApoyoConceptual",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AuditSupportTeam",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

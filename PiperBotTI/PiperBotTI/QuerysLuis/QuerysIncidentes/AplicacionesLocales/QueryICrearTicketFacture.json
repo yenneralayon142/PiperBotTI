@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketFacture",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

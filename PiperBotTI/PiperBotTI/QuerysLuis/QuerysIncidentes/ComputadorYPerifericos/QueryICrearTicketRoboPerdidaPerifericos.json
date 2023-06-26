@@ -1,11 +1,11 @@
 [
   {
-    "intent": "ICrearTicketAudiovisualesYVideoconferencia",
+    "intent": "ICrearTicketRoboPerdidaPerifericos",
     "language": "es-es",
     "text": "",
     "entities": [
       {
-        "category": "Audiovisuales",
+        "category": "ComputadorYPerifericos",
         "offset": "",
         "length": ""
       }

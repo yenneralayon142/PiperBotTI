@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketAppSouthAmerica",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

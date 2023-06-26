@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketMouse",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYPerifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

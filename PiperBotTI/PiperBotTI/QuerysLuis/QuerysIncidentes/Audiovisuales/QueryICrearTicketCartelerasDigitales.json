@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketCartelerasDigitales",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

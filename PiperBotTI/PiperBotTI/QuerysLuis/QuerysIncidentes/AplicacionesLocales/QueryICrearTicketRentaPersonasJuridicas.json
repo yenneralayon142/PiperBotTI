@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketRentaPersonasJuridicas",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

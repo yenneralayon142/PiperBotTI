@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketOnBase",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "intent": "ICrearTicketCuentaPrivilegiada",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

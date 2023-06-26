@@ -1,0 +1,15 @@
+[
+  {
+    "intent": "ICrearTicketInternetInvitados",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ConectividadYComunicaciones",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]
