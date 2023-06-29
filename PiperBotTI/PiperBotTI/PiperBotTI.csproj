@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="querysluis\querysrequerimientos\computadoryperifericos\QueryRCrearTicketBorradoSeguroPc.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Auth0.AuthenticationApi" Version="7.20.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.1" />
     <PackageReference Include="Microsoft.Bot.Builder.AI.Luis" Version="4.20.0" />
@@ -29,6 +33,13 @@
       <Folder Include="QuerysLuis\QuerysIncidentes\ConectividadYComunicaciones\" />
       <Folder Include="QuerysLuis\QuerysIncidentes\SeguridadDeLaInformacion\" />
       <Folder Include="QuerysLuis\QuerysRequerimientos\Microsoft365\" />
+      <Folder Include="QuerysLuis\QuerysRequerimientos\Accesos\" />
+      <Folder Include="QuerysLuis\QuerysRequerimientos\AplicacionesGlobales\" />
+      <Folder Include="QuerysLuis\QuerysRequerimientos\AplicacionesLocales\" />
+      <Folder Include="QuerysLuis\QuerysRequerimientos\Audiovisuales\" />
+      <Folder Include="QuerysLuis\QuerysRequerimientos\IniciativaTecnologica\" />
+      <Folder Include="QuerysLuis\QuerysRequerimientos\InternetMovil\" />
+      <Folder Include="QuerysLuis\QuerysRequerimientos\ITAudit\" />
     </ItemGroup>
 
 </Project>
