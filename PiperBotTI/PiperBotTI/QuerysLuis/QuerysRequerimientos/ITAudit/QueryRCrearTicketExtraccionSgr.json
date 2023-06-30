@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketExtraccionSgr",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "RCrearTicketExtraccionSgr",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "RCrearTicketExtraccionSgr",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "RCrearTicketExtraccionSgr",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "RCrearTicketExtraccionSgr",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

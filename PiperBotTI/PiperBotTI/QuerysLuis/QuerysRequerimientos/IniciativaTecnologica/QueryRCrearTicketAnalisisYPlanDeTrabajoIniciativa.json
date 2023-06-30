@@ -1,0 +1,14 @@
+[
+  {
+    "intent": "RCrearTicketAnalisisYPlanDeTrabajoIniciativa",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Iniciativa Tecnologica",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

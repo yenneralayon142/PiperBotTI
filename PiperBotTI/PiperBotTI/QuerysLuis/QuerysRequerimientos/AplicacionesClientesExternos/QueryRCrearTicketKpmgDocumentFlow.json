@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketKpmgDocumentFlow",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

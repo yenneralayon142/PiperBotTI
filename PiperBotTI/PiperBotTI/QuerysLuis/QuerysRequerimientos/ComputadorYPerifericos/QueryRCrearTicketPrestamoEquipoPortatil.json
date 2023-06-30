@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTickePrestamosEquiporPortatil",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTickePrestamosEquiporPortatil",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTickePrestamosEquiporPortatil",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTickePrestamosEquiporPortatil",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTickePrestamosEquiporPortatil",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketDescargarReportesSap",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketDescargarReportesSap",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketDescargarReportesSap",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketDescargarReportesSap",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketDescargarReportesSap",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

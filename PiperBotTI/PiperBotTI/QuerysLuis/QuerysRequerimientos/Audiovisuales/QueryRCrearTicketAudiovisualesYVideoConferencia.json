@@ -1,66 +1,67 @@
 [
   {
-    "intent": "RCrearTicketPermisosEscrituraPuertoUsb",
+    "intent": "RCrearTicketAudiovisualesYVideoConferencia",
     "language": "es-es",
     "text": "",
     "entities": [
       {
-        "category": "ComputadorYperifericos",
+        "category": "Audiovisuales",
         "offset": "",
         "length": ""
       }
     ]
   },
 
- {
-    "intent": "RCrearTicketPermisosEscrituraPuertoUsb",
+  {
+    "intent": "RCrearTicketAudiovisualesYVideoConferencia",
     "language": "es-es",
     "text": "",
     "entities": [
       {
-        "category": "ComputadorYperifericos",
+        "category": "Audiovisuales",
         "offset": "",
         "length": ""
       }
     ]
   },
 
- {
-    "intent": "RCrearTicketPermisosEscrituraPuertoUsb",
+  {
+    "intent": "RCrearTicketAudiovisualesYVideoConferencia",
     "language": "es-es",
     "text": "",
     "entities": [
       {
-        "category": "ComputadorYperifericos",
+        "category": "Audiovisuales",
         "offset": "",
         "length": ""
       }
     ]
   },
 
- {
-    "intent": "RCrearTicketPermisosEscrituraPuertoUsb",
+  {
+    "intent": "RCrearTicketAudiovisualesYVideoConferencia",
     "language": "es-es",
     "text": "",
     "entities": [
       {
-        "category": "ComputadorYperifericos",
+        "category": "Audiovisuales",
         "offset": "",
         "length": ""
       }
     ]
   },
 
- {
-    "intent": "RCrearTicketPermisosEscrituraPuertoUsb",
+  {
+    "intent": "RCrearTicketAudiovisualesYVideoConferencia",
     "language": "es-es",
     "text": "",
     "entities": [
       {
-        "category": "ComputadorYperifericos",
+        "category": "Audiovisuales",
         "offset": "",
         "length": ""
       }
     ]
   }
+
 ]

@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketLabEjecucionJeClara",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketLabEjecucionJeClara",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketLabEjecucionJeClara",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketLabEjecucionJeClara",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketLabEjecucionJeClara",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

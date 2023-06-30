@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketCartelerasDigitales",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCartelerasDigitales",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCartelerasDigitales",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCartelerasDigitales",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCartelerasDigitales",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

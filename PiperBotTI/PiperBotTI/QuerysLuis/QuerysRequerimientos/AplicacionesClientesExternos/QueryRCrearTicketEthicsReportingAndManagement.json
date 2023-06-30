@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketEthicsReportingAndManagement",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEthicsReportingAndManagement",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEthicsReportingAndManagement",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEthicsReportingAndManagement",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEthicsReportingAndManagement",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesClientesExternos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

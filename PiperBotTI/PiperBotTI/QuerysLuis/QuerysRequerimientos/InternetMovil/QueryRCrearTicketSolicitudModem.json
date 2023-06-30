@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketSolicitudModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketSolicitudModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketSolicitudModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketSolicitudModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketSolicitudModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

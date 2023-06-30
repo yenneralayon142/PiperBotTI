@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketCompraPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCompraPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCompraPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCompraPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCompraPc",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketAcompañamientoAEventos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketAcompañamientoAEventos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketAcompañamientoAEventos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketAcompañamientoAEventos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketAcompañamientoAEventos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Audiovisuales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

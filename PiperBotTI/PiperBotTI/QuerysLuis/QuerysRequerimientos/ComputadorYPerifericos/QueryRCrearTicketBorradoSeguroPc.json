@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketBorradoSeguro",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketBorradoSeguro",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketBorradoSeguro",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketBorradoSeguro",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketBorradoSeguro",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

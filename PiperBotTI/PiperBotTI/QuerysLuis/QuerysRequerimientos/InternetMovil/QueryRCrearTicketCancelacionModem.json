@@ -1,0 +1,67 @@
+[
+  {
+    "intent": "RCrearTicketCancelacionModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+
+  {
+    "intent": "RCrearTicketCancelacionModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCancelacionModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCancelacionModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketCancelacionModem",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "InternetMovil",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

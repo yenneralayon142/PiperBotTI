@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketEjecucionDeTaacs",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEjecucionDeTaacs",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEjecucionDeTaacs",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEjecucionDeTaacs",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEjecucionDeTaacs",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

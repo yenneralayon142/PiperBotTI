@@ -1,0 +1,72 @@
+[
+  {
+    "intent": "RCrearTicketEjecucionCalidadYDatos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "RCrearTicketEjecucionCalidadYDatos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+
+   },
+
+   {
+    "intent": "RCrearTicketEjecucionCalidadYDatos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+
+   },
+
+   {
+    "intent": "RCrearTicketEjecucionCalidadYDatos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+
+   },
+
+   {
+    "intent": "RCrearTicketEjecucionCalidadYDatos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ITAudit",
+        "offset": "",
+        "length": ""
+      }
+    ]
+
+   }
+
+
+]

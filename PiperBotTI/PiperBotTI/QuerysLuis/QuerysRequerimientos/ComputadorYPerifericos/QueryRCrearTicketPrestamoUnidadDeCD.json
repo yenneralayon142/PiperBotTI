@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketPrestamoUnidadDeCD",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "RCrearTicketPrestamoUnidadDeCD",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "RCrearTicketPrestamoUnidadDeCD",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "RCrearTicketPrestamoUnidadDeCD",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+  {
+    "intent": "RCrearTicketPrestamoUnidadDeCD",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "ComputadorYperifericos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]
