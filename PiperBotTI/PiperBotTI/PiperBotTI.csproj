@@ -33,10 +33,8 @@
       <Folder Include="QuerysLuis\QuerysIncidentes\ConectividadYComunicaciones\" />
       <Folder Include="QuerysLuis\QuerysIncidentes\SeguridadDeLaInformacion\" />
       <Folder Include="QuerysLuis\QuerysRequerimientos\Microsoft365\" />
-      <Folder Include="QuerysLuis\QuerysRequerimientos\Accesos\" />
       <Folder Include="QuerysLuis\QuerysRequerimientos\AplicacionesGlobales\" />
       <Folder Include="QuerysLuis\QuerysRequerimientos\AplicacionesLocales\" />
-      <Folder Include="QuerysLuis\QuerysRequerimientos\Audiovisuales\" />
       <Folder Include="QuerysLuis\QuerysRequerimientos\IniciativaTecnologica\" />
       <Folder Include="QuerysLuis\QuerysRequerimientos\InternetMovil\" />
       <Folder Include="QuerysLuis\QuerysRequerimientos\ITAudit\" />
