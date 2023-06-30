@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketInternetInvitados",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketInternetInvitados",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketInternetInvitados",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketInternetInvitados",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketInternetInvitados",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

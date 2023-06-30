@@ -1,0 +1,66 @@
+[
+  {
+    "intent": "RCrearTicketEntrapass",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEntrapass",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEntrapass",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEntrapass",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketEntrapass",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

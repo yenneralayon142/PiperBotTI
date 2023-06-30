@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketCeac",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketCeac",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketCeac",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketCeac",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketCeac",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

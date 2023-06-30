@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketKpmgLink",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketKpmgLink",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketKpmgLink",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketKpmgLink",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketKpmgLink",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesGlobales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketConsecutivosAdvisory",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketConsecutivosAdvisory",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketConsecutivosAdvisory",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketConsecutivosAdvisory",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketConsecutivosAdvisory",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

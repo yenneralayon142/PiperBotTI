@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketCuentaPrivilegiadaCrear",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketCuentaPrivilegiadaCrear",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketCuentaPrivilegiadaCrear",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketCuentaPrivilegiadaCrear",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketCuentaPrivilegiadaCrear",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

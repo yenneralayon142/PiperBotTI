@@ -1,0 +1,67 @@
+[
+  {
+    "intent": "RCrearTicketKpmgLeaderManagementTools",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "RCrearTicketKpmgLeaderManagementTools",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "RCrearTicketKpmgLeaderManagementTools",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+   {
+    "intent": "RCrearTicketKpmgLeaderManagementTools",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+  {
+    "intent": "RCrearTicketKpmgLeaderManagementTools",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "AplicacionesLocales",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

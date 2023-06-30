@@ -1,0 +1,64 @@
+[
+  {
+    "intent": "RCrearTicketBorradoSeguroCorreos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+
+{
+    "intent": "RCrearTicketBorradoSeguroCorreos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketBorradoSeguroCorreos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketBorradoSeguroCorreos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketBorradoSeguroCorreos",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+
+]

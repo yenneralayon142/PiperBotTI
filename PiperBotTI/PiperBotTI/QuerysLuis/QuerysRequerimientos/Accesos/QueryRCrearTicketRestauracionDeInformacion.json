@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketRestauracionDeInformacion",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketRestauracionDeInformacion",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketRestauracionDeInformacion",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketRestauracionDeInformacion",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+{
+    "intent": "RCrearTicketRestauracionDeInformacion",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

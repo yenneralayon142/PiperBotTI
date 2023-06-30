@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketPermisosSobreBuzonUsuario",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+ {
+    "intent": "RCrearTicketPermisosSobreBuzonUsuario",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+ {
+    "intent": "RCrearTicketPermisosSobreBuzonUsuario",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+ {
+    "intent": "RCrearTicketPermisosSobreBuzonUsuario",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+ {
+    "intent": "RCrearTicketPermisosSobreBuzonUsuario",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

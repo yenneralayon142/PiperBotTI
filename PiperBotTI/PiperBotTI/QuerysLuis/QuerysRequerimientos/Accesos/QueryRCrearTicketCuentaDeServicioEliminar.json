@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "RCrearTicketCuentaDeServicioEliminar",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+ {
+    "intent": "RCrearTicketCuentaDeServicioEliminar",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+ {
+    "intent": "RCrearTicketCuentaDeServicioEliminar",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+ {
+    "intent": "RCrearTicketCuentaDeServicioEliminar",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  },
+ {
+    "intent": "RCrearTicketCuentaDeServicioEliminar",
+    "language": "es-es",
+    "text": "",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "",
+        "length": ""
+      }
+    ]
+  }
+]

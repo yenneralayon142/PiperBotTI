@@ -1,6 +1,6 @@
 [
   {
-    "intent": "RCrearTicketCuentaPrivilegiadaEliminar",
+    "intent": "RCrearTicketListaDeDistribucionEliminar",
     "language": "es-es",
     "text": "",
     "entities": [
@@ -11,8 +11,9 @@
       }
     ]
   },
-{
-    "intent": "RCrearTicketCuentaPrivilegiadaEliminar",
+
+  {
+    "intent": "RCrearTicketListaDeDistribucionEliminar",
     "language": "es-es",
     "text": "",
     "entities": [
@@ -23,8 +24,9 @@
       }
     ]
   },
-{
-    "intent": "RCrearTicketCuentaPrivilegiadaEliminar",
+
+  {
+    "intent": "RCrearTicketListaDeDistribucionEliminar",
     "language": "es-es",
     "text": "",
     "entities": [
@@ -35,8 +37,9 @@
       }
     ]
   },
-{
-    "intent": "RCrearTicketCuentaPrivilegiadaEliminar",
+
+  {
+    "intent": "RCrearTicketListaDeDistribucionEliminar",
     "language": "es-es",
     "text": "",
     "entities": [
@@ -47,8 +50,9 @@
       }
     ]
   },
-{
-    "intent": "RCrearTicketCuentaPrivilegiadaEliminar",
+
+  {
+    "intent": "RCrearTicketListaDeDistribucionEliminar",
     "language": "es-es",
     "text": "",
     "entities": [
@@ -59,4 +63,5 @@
       }
     ]
   }
+
 ]
