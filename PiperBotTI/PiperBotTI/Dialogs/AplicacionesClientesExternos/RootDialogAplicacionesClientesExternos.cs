@@ -1,10 +1,11 @@
 ﻿using Microsoft.Bot.Builder;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Schema;
+using System.ComponentModel;
 
-namespace PiperBotTI.Dialogs.Accesos
+namespace PiperBotTI.Dialogs.AplicacionesClientesExternos
 {
-    public class AccesosDialog : ComponentDialog
+    public class RootDialogAplicacionesClientesExternos : ComponentDialog
     {
         public static Activity ICrearTicketBloqueoBitLocker()
         {
@@ -46,5 +47,6 @@ namespace PiperBotTI.Dialogs.Accesos
             var reply = MessageFactory.Attachment(videoCard);
             return reply as Activity;
         }
+
     }
 }

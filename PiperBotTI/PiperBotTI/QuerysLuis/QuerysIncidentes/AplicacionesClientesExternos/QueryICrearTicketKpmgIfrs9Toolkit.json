@@ -2,12 +2,12 @@
   {
     "intent": "ICrearTicketKpmgIfrs9Toolkit",
     "language": "es-es",
-    "text": "",
+    "text": "kpmgIfrs9Toolkit problemas de acceso",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "16"
       }
     ]
   },
@@ -15,12 +15,12 @@
   {
     "intent": "ICrearTicketKpmgIfrs9Toolkit",
     "language": "es-es",
-    "text": "",
+    "text": "kpmgIfrs9Toolkit no quiere ingresar",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "16"
       }
     ]
   },
@@ -28,12 +28,12 @@
   {
     "intent": "ICrearTicketKpmgIfrs9Toolkit",
     "language": "es-es",
-    "text": "",
+    "text": "kpmgIfrs9Toolkit, ayuda necesito ingresar",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "16"
       }
     ]
   },
@@ -41,12 +41,12 @@
   {
     "intent": "ICrearTicketKpmgIfrs9Toolkit",
     "language": "es-es",
-    "text": "",
+    "text": "kpmgIfrs9Toolkit, como podria ingresar",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "16"
       }
     ]
   },
@@ -54,12 +54,12 @@
   {
     "intent": "ICrearTicketKpmgIfrs9Toolkit",
     "language": "es-es",
-    "text": "",
+    "text": "kpmgIfrs9Toolkit, tengo incovenientes de acceso",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "16"
       }
     ]
   }

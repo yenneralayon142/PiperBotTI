@@ -2,12 +2,12 @@
   {
     "intent": "ICrearTicketKpmgEthicsReportingAndManagement",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEthicsReportingAndManagement problemas de acceso",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "32"
       }
     ]
   },
@@ -15,12 +15,12 @@
   {
     "intent": "ICrearTicketKpmgEthicsReportingAndManagement",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEthicsReportingAndManagement no accede",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "32"
       }
     ]
   },
@@ -28,12 +28,12 @@
   {
     "intent": "ICrearTicketKpmgEthicsReportingAndManagement",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEthicsReportingAndManagement ayuda no puedo entrar",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "32"
       }
     ]
   },
@@ -41,12 +41,12 @@
   {
     "intent": "ICrearTicketKpmgEthicsReportingAndManagement",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEthicsReportingAndManagement como ingreso ayuda",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "32"
       }
     ]
   },
@@ -54,12 +54,12 @@
   {
     "intent": "ICrearTicketKpmgEthicsReportingAndManagement",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEthicsReportingAndManagement por favor necesito ingresar",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "32"
       }
     ]
   }

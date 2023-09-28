@@ -2,12 +2,12 @@
   {
     "intent": "ICrearTicketListaDeDistribucionVerificacion",
     "language": "es-es",
-    "text": "",
+    "text": "No puedo acceder a mi lista de distribucion,ayuda",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "21",
+        "length": "22"
       }
     ]
   },
@@ -16,12 +16,12 @@
   {
     "intent": "ICrearTicketListaDeDistribucionVerificacion",
     "language": "es-es",
-    "text": "",
+    "text": "Problemas con el acceso a mi lista de distribucion",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset":"30",
+        "length":"20"
       }
     ]
   },
@@ -29,26 +29,12 @@
   {
     "intent": "ICrearTicketListaDeDistribucionVerificacion",
     "language": "es-es",
-    "text": "",
+    "text": "No puedo acceder a mi lista de distribucion",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
-      }
-    ]
-  },
-
-
-  {
-    "intent": "ICrearTicketListaDeDistribucionVerificacion",
-    "language": "es-es",
-    "text": "",
-    "entities": [
-      {
-        "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "20",
+        "length": "22"
       }
     ]
   },
@@ -57,17 +43,27 @@
   {
     "intent": "ICrearTicketListaDeDistribucionVerificacion",
     "language": "es-es",
-    "text": "",
+    "text": "Quiero acceder a mi lista de distribucion",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "18",
+        "length": "22"
       }
     ]
   },
 
 
-
-
+  {
+    "intent": "ICrearTicketListaDeDistribucionVerificacion",
+    "language": "es-es",
+    "text": "Como ingresar a mi lista de distribucion",
+    "entities": [
+      {
+        "category": "Accesos",
+        "offset": "17",
+        "length": "22"
+      }
+    ]
+  }
 ]

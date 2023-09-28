@@ -2,12 +2,12 @@
   {
     "intent": "ICrearTicketBloqueoContraseña",
     "language": "es-es",
-    "text": "",
+    "text": "Se me olvido mi contraseña",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "16",
+        "length": "10"
       }
     ]
   },
@@ -15,12 +15,12 @@
   {
     "intent": "ICrearTicketBloqueoContraseña",
     "language": "es-es",
-    "text": "",
+    "text": "No recuerdo mi contraseña",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "15",
+        "length": "10"
       }
     ]
   },
@@ -28,12 +28,12 @@
   {
     "intent": "ICrearTicketBloqueoContraseña",
     "language": "es-es",
-    "text": "",
+    "text": "Ayuda,olvide mi contraseña",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "15",
+        "length": "10"
       }
     ]
   },
@@ -41,12 +41,12 @@
   {
     "intent": "ICrearTicketBloqueoContraseña",
     "language": "es-es",
-    "text": "",
+    "text": "Necesito recordar mi contraseña",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "09",
+        "length": "08"
       }
     ]
   },
@@ -54,12 +54,12 @@
   {
     "intent": "ICrearTicketBloqueoContraseña",
     "language": "es-es",
-    "text": "",
+    "text": "Como recupero mi contraseña",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "05",
+        "length": "08"
       }
     ]
   }

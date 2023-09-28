@@ -2,12 +2,12 @@
   {
     "intent": "ICrearTicketCuentaPrivilegiada",
     "language": "es-es",
-    "text": "",
+    "text": "No puedo accerder a mi cuenta privilegiada",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "23",
+        "length": "19"
       }
     ]
   },
@@ -15,12 +15,12 @@
   {
     "intent": "ICrearTicketCuentaPrivilegiada",
     "language": "es-es",
-    "text": "",
+    "text": "Quiero accerder a mi cuenta privilegiada",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "21",
+        "length": "19"
       }
     ]
   },
@@ -28,12 +28,12 @@
   {
     "intent": "ICrearTicketCuentaPrivilegiada",
     "language": "es-es",
-    "text": "",
+    "text": "Como solucionar el error de acceso a mi cuenta privilegiada",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "28",
+        "length": "06"
       }
     ]
   },
@@ -41,12 +41,12 @@
   {
     "intent": "ICrearTicketCuentaPrivilegiada",
     "language": "es-es",
-    "text": "",
+    "text": "Necesito acceder a mi cuenta privilegiada",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "10",
+        "length": "07"
       }
     ]
   },
@@ -54,12 +54,12 @@
   {
     "intent": "ICrearTicketCuentaPrivilegiada",
     "language": "es-es",
-    "text": "",
+    "text": "Problemas con el acceso a mi cuenta privilegiada",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "28",
+        "length": "19"
       }
     ]
   }

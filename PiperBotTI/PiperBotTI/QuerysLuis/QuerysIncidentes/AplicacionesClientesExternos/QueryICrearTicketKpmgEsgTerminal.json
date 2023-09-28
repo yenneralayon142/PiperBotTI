@@ -2,12 +2,12 @@
   {
     "intent": "ICrearTicketKpmgEsgTerminal",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEsgTerminal, no ejecuta",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "15"
       }
     ]
   },
@@ -15,12 +15,12 @@
   {
     "intent": "ICrearTicketKpmgEsgTerminal",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEsgTerminal, no me quiere ingresar",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "15"
       }
     ]
   },
@@ -28,12 +28,12 @@
   {
     "intent": "ICrearTicketKpmgEsgTerminal",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEsgTerminal no permite ingresar ",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "15"
       }
     ]
   },
@@ -41,12 +41,12 @@
   {
     "intent": "ICrearTicketKpmgEsgTerminal",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEsgTerminal no accede",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "15"
       }
     ]
   },
@@ -54,12 +54,12 @@
   {
     "intent": "ICrearTicketKpmgEsgTerminal",
     "language": "es-es",
-    "text": "",
+    "text": "KpmgEsgTerminal no sirve ",
     "entities": [
       {
         "category": "AplicacionesClientesExternos",
-        "offset": "",
-        "length": ""
+        "offset": "00",
+        "length": "15"
       }
     ]
   }

@@ -1,65 +1,65 @@
 [
   {
-    "intent": "ICrearTicketBloqueoBitloquer",
+    "intent": "ICrearTicketBloqueoBitLocker",
     "language": "es-es",
-    "text": "",
+    "text": "Se me olvido mi BitLocker",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "16",
+        "length": "09"
       }
     ]
   },
 
   {
-    "intent": "ICrearTicketBloqueoBitloquer",
+    "intent": "ICrearTicketBloqueoBitLocker",
     "language": "es-es",
-    "text": "",
+    "text": "Olvide mi Bitlocker",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "10",
+        "length": "09"
       }
     ]
   },
 
   {
-    "intent": "ICrearTicketBloqueoBitloquer",
+    "intent": "ICrearTicketBloqueoBitLocker",
     "language": "es-es",
-    "text": "",
+    "text":"Ayuda, necesito recuperar mi Bitlocker",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "16",
+        "length": "09"
       }
     ]
   },
 
   {
-    "intent": "ICrearTicketBloqueoBitloquer",
+    "intent": "ICrearTicketBloqueoBitLocker",
     "language": "es-es",
-    "text": "",
+    "text":"No puedo ingresar con mi Bitlocker",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "08",
+        "length": "08"
       }
     ]
   },
 
   {
-    "intent": "ICrearTicketBloqueoBitloquer",
+    "intent": "ICrearTicketBloqueoBitLocker",
     "language": "es-es",
-    "text": "",
+    "text": "Como recupero mi Bitlocker",
     "entities": [
       {
         "category": "Accesos",
-        "offset": "",
-        "length": ""
+        "offset": "17",
+        "length": "09"
       }
     ]
   }

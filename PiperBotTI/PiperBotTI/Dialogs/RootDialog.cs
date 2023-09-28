@@ -26,7 +26,6 @@ namespace PiperBotTI.Dialogs
                 
             };
             AddDialog(new QualificatioDialog());
-            AddDialog(new AccesosDialog());
             AddDialog(new TextPrompt(nameof(TextPrompt)));
             AddDialog(new WaterfallDialog(nameof(WaterfallDialog), waterfallSteps));
             InitialDialogId = nameof(WaterfallDialog);
@@ -71,6 +70,7 @@ namespace PiperBotTI.Dialogs
                 case "VerOpciones":
                     await IntentVerOpciones(stepContext, luisResult, cancellationToken);
                     break;
+                
             }
             return await stepContext.NextAsync(cancellationToken);
         }
